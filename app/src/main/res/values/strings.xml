@@ -2,4 +2,6 @@
     <string name="app_name">W2d5-ex01</string>
     <string name="lbl_btn_Detail">Detail</string>
     <string name="lbl_btn_Camera">Camera</string>
+    <string name="lbl_Name">Name</string>
+    <string name="lbl_last_name">Last Name</string>
 </resources>

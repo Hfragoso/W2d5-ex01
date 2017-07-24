@@ -19,12 +19,16 @@
     <EditText
         android:id="@+id/et_name"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content" />
+        android:layout_height="wrap_content"
+        android:hint="@string/lbl_Name"
+        />
 
     <EditText
         android:id="@+id/et_lastname"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content" />
+        android:layout_height="wrap_content"
+        android:hint="@string/lbl_last_name"
+        />
 
     <Button
         android:id="@+id/btn_camera"
